@@ -1,0 +1,3 @@
+- NIT, Kumamoto College 🐈
+- Learning C++, Python and so on 🐈
+- I love cats 🐈
